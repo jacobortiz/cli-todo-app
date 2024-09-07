@@ -1,2 +1,3 @@
 # cli-todo-app
-Todo app in GO
+Todo app in CLI using GO
+
